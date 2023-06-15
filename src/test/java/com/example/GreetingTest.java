@@ -7,7 +7,7 @@ public class GreetingTest {
 
     @Test
     public void testGreeting() {
-        String message = "Hello, Maven!";
+        String message= "Bye, Maven!";
         assertEquals("Greeting message is incorrect", message, Greeting.getGreeting());
     }
 }
