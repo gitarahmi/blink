@@ -20,7 +20,7 @@
     <repository>
       <id>github</id>
       <name>Github Packages</name>
-      <url>https://maven.pkg.github.com/gitarahmi/blink</url>
+      <url>https://maven.pkg.github.com/putrilarasxx/blink</url>
     </repository>
   </distributionManagement>
   
