@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
 
 <dependencies>
   <dependency>
@@ -16,7 +16,7 @@
          <repository>
              <id>github</id>
              <name>Github Packages</name>
-             <url>https://maven.pkg.github.com/gitarahmi/blink</url> 
+             <url>https://maven.pkg.github.com/roytamarpaung/blink</url> 
          </repository>
 </distributionManagement>
   
