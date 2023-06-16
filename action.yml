@@ -1,0 +1,5 @@
+name: My GitHub Action
+description: A description of your GitHub Action
+runs:
+  using: 'java'
+  main: 'greeting.java'
